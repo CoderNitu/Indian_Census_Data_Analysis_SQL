@@ -17,4 +17,4 @@ The population growth rate (PGR) is a factor that represents the rate of populat
 
 In India, the sex ratio is defined as the number of females per 1000 males (disregarding other genders), whereas in almost all the UN publications/International publications, it is expressed as males to per 100 females.
 
-## ３。 Ｂｉｒｔｈ Ｒａｔｅ ＆ Ｄａｔｅ Ｒａｔｅ
+## ３。 Ｂｉｒｔｈ Ｒａｔｅ ＆ Ｄａｔｅ Ｒａｔｅ
