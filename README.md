@@ -20,3 +20,9 @@ In India, the sex ratio is defined as the number of females per 1000 males (disr
 ## ３。Ｂｉｒｔｈ Ｒａｔｅ ＆ Ｄｅａｔｈ Ｒａｔｅ
 
 The birth rate is the number of live births per 1000 people in a given area during a specific period. The death rate is the number of deaths per 1000 people in a given area during a specific period.
+
+## ４。 Ｌｉｔｅｒａｃｙ Ｒａｔｅ
+
+The literacy rate in India is calculated by dividing the total number of literate people aged 7 or above by the total number of population aged 7 or above and multiplying the result by 100
+ 
+
