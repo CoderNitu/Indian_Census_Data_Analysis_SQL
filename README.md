@@ -14,3 +14,5 @@ A census is a process that includes collecting demographic, social, cultural, an
 The population growth rate (PGR) is a factor that represents the rate of population growth or the change in number of people over a specific period. It can indicate growth, decline, or equilibrium of population size. 
 
 ## ２。 Ｓｅｘ Ｒａｔｉｏ ／ Ｇｅｎｄｅｒ Ｒａｔｉｏ
+
+In India, the sex ratio is defined as the number of females per 1000 males (disregarding other genders), whereas in almost all the UN publications/International publications, it is expressed as males to per 100 females.
