@@ -4,6 +4,5 @@
 
 ![Population-density-of-India-2011-census](https://github.com/CoderNitu/Indian_Census_Data_Analysis_SQL/assets/87817227/7c45e295-7cdc-4c82-b70b-64efb8d198ca)
 
-
-# Population Census
-A census is a process that collects, analyzes
+# 𝙋𝙤𝙥𝙪𝙡𝙖𝙩𝙞𝙤𝙣 𝘾𝙚𝙣𝙨𝙪𝙨 
+A census is a process that includes collecting demographic, social, cultural, and economic data about a country or a part of a country, which is then sent to the data where data is analyzed and presented to the running government so it can take useful measures and make policies and thus present in the public domain for the people of a country to know. " 𝙄𝙣 𝙄𝙣𝙙𝙞𝙖, 𝙩𝙝𝙚 𝙥𝙤𝙥𝙪𝙡𝙖𝙩𝙞𝙤𝙣 𝙘𝙚𝙣𝙨𝙪𝙨 𝙞𝙨 𝙘𝙤𝙣𝙙𝙪𝙘𝙩𝙚𝙙 𝙖𝙛𝙩𝙚𝙧 𝙚𝙫𝙚𝙧𝙮 𝙩𝙚𝙣 𝙮𝙚𝙖𝙧𝙨. 𝙄𝙩 𝙞𝙨 𝙤𝙣𝙚 𝙤𝙛 𝙩𝙝𝙚 𝙬𝙤𝙧𝙡𝙙'𝙨 𝙡𝙖𝙧𝙜𝙚𝙨𝙩 𝙖𝙙𝙢𝙞𝙣𝙞𝙨𝙩𝙧𝙖𝙩𝙞𝙫𝙚 𝙚𝙭𝙚𝙧𝙘𝙞𝙨𝙚𝙨. 𝙏𝙝𝙚 𝙡𝙖𝙨𝙩 𝙘𝙚𝙣𝙨𝙪𝙨 𝙞𝙣 𝙄𝙣𝙙𝙞𝙖 𝙬𝙖𝙨 𝙘𝙤𝙣𝙙𝙪𝙘𝙩𝙚𝙙 𝙞𝙣 2011. 𝙏𝙝𝙚 𝙣𝙚𝙭𝙩 𝙘𝙚𝙣𝙨𝙪𝙨 𝙬𝙖𝙨 𝙨𝙘𝙝𝙚𝙙𝙪𝙡𝙚𝙙 𝙛𝙤𝙧 2021, 𝙗𝙪𝙩 𝙬𝙖𝙨 𝙥𝙤𝙨𝙩𝙥𝙤𝙣𝙚𝙙 𝙙𝙪𝙚 𝙩𝙤 𝙩𝙝𝙚 𝘾𝙊𝙑𝙄𝘿-19 𝙥𝙖𝙣𝙙𝙚𝙢𝙞𝙘. 𝙏𝙝𝙚 𝙣𝙚𝙭𝙩 𝙘𝙚𝙣𝙨𝙪𝙨 𝙞𝙨 𝙚𝙭𝙥𝙚𝙘𝙩𝙚𝙙 𝙩𝙤 𝙗𝙚 𝙝𝙚𝙡𝙙 𝙖𝙛𝙩𝙚𝙧 𝙩𝙝𝙚 2024 𝙜𝙚𝙣𝙚𝙧𝙖𝙡 𝙚𝙡𝙚𝙘𝙩𝙞𝙤𝙣."
