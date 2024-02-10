@@ -5,4 +5,4 @@ Done Statistical Analysis on the 2011 Indian population census data to extract c
 ![Population-density-of-India-2011-census](https://github.com/CoderNitu/Indian_Census_Data_Analysis_SQL/assets/87817227/7c45e295-7cdc-4c82-b70b-64efb8d198ca)
 
 
-## Population Census
+# Population Census
