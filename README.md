@@ -12,3 +12,5 @@ A census is a process that includes collecting demographic, social, cultural, an
 ## 1.  Ｐｏｐｕｌａｔｉｏｎ Ｇｒｏｗｔｈ Ｒａｔｅ
 
 The population growth rate (PGR) is a factor that represents the rate of population growth or the change in number of people over a specific period. It can indicate growth, decline, or equilibrium of population size. 
+
+## ２。 Ｓｅｘ Ｒａｔｉｏ ／ Ｇｅｎｄｅｒ Ｒａｔｉｏ
