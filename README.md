@@ -24,5 +24,9 @@ The birth rate is the number of live births per 1000 people in a given area duri
 ## ４。 Ｌｉｔｅｒａｃｙ Ｒａｔｅ
 
 The literacy rate in India is calculated by dividing the total number of literate people aged 7 or above by the total number of population aged 7 or above and multiplying the result by 100
+
+## ５。Ｐｏｐｕｌａｔｉｏｎ Ｄｅｎｓｉｔｙ
+
+Population Density is the number of people living in a specific area. It is calculated by dividing the total population of an area by its total land area. It is expressed as "per kilometer square.  
  
 
