@@ -28,5 +28,11 @@ The literacy rate in India is calculated by dividing the total number of literat
 ## ５。Ｐｏｐｕｌａｔｉｏｎ Ｄｅｎｓｉｔｙ
 
 Population Density is the number of people living in a specific area. It is calculated by dividing the total population of an area by its total land area. It is expressed as "per kilometer square". It is used to describe the location, growth, and migration of organisms.  
- 
+
+# 𝙏𝙤𝙤𝙡𝙨 𝙖𝙣𝙙 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨
+
+1. PᴏꜱᴛɢʀᴇSQL
+2. PGAᴅᴍɪɴ
+3. MS Exᴄᴇʟ (EDA)
+
 
